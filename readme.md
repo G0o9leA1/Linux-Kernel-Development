@@ -1,5 +1,5 @@
 # Linux Kernel Development
-#
+
 ### Source Code:
   - This is the source code of operating system organization
 
