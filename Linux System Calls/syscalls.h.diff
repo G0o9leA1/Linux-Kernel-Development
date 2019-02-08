@@ -1,0 +1,10 @@
+--- syscalls.h	2018-09-08 22:03:53.746663691 -0500
++++ syscalls.h.090818	2018-09-08 21:03:27.866893773 -0500
+@@ -941,7 +941,4 @@ asmlinkage long sys_pkey_free(int pkey);
+ asmlinkage long sys_statx(int dfd, const char __user *path, unsigned flags,
+ 			  unsigned mask, struct statx __user *buffer);
+ 
+-asmlinkage long sys_noargs(void);
+-asmlinkage long sys_oneargs(int oneargs);
+-
+ #endif

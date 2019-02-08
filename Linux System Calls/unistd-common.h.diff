@@ -1,0 +1,10 @@
+--- unistd-common.h	2018-09-09 01:23:19.730641556 -0500
++++ unistd-common.h.090818	2018-09-08 22:45:05.840786705 -0500
+@@ -354,7 +354,5 @@
+ #define __NR_pkey_alloc (__NR_SYSCALL_BASE + 395)
+ #define __NR_pkey_free (__NR_SYSCALL_BASE + 396)
+ #define __NR_statx (__NR_SYSCALL_BASE + 397)
+-#define __NR_noargs (__NR_SYSCALL_BASE + 398)
+-#define __NR_oneargs (__NR_SYSCALL_BASE + 399)
+ 
+ #endif /* _UAPI_ASM_ARM_UNISTD_COMMON_H */
