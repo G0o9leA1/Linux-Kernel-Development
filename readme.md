@@ -3,6 +3,13 @@
 ### Source Code:
   - This is the source code of operating system organization
 
+### Project Directory:
+  - Project 1: Kernel Monitoring Framework
+  
+  - Project 2: Kernel Module Concurrent Memory Use
+  
+  - project 3: Kernel Memory Management
+
 ### Course Website link:
   - [E81 CSE 422S: Operating Systems Organization](https://www.cse.wustl.edu/~brian.kocoloski/courses/cse422s)
 
