@@ -3,7 +3,7 @@ This the source code of Operating Systems Organization.
 
 ### Project Website
 For any detailed information about this project, please refer to the project website.
-https://www.cse.wustl.edu/~brian.kocoloski/courses/cse422s/labs/08_monitoring_framework.html
+https://www.cse.wustl.edu/~brian.kocoloski/courses/cse422s/labs/21_paging.html
 
 ### General Description
 In this project we
