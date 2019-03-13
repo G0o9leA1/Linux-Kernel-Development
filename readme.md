@@ -13,7 +13,8 @@
 ### Course Website link:
   - [E81 CSE 422S: Operating Systems Organization](https://www.cse.wustl.edu/~brian.kocoloski/courses/cse422s)
 
-### Authors: Chengyue Gong, Zixuan Li
+### Authors: 
+  - Chengyue Gong, Wentao Wang and Zixuan Li
 
 ### Copyright:
   - If you are students of Washington University in St. Louis, you should cite properly and do not violate the academic integrity when you using this code.
