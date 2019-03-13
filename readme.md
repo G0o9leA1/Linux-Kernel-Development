@@ -8,7 +8,7 @@
   
   - Project 2: Kernel Module Concurrent Memory Use
   
-  - project 3: Kernel Memory Management
+  - project 3: Memory Management and Paging
 
 ### Course Website link:
   - [E81 CSE 422S: Operating Systems Organization](https://www.cse.wustl.edu/~brian.kocoloski/courses/cse422s)
